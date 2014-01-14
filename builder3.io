@@ -1,3 +1,5 @@
+# This script is not working yet!
+
 doFile("hash.io")
 
 Builder := Object clone
